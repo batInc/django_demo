@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-# Assignment 3
-
-Repository for Assignment 3.
-
-
-
-=======
 # django_demo
->>>>>>> f6e8ef4bf16d2fb40cb22883a464d71dc6e7ddca
+
+## Django Source Code
+https://github.com/batInc/django_demo/tree/master/django_a3
+
+## scripts
+https://github.com/batInc/django_demo/blob/master/django_a3/script1
+https://github.com/batInc/django_demo/blob/master/django_a3/script2
